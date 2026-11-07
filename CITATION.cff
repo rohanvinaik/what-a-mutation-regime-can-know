@@ -10,7 +10,7 @@ version: 1.0.0
 date-released: 2026-11-07
 license: MIT
 repository-code: "https://github.com/rohanvinaik/what-a-mutation-regime-can-know"
-# doi: 10.5281/zenodo.XXXXXXX
+doi: 10.5281/zenodo.24042390
 preferred-citation:
   type: unpublished
   title: "What a Mutation Regime Can Know About a Function: A provably-sufficient output-mutation regime, its knowability boundary, and the intent residual"
@@ -21,4 +21,4 @@ preferred-citation:
   year: 2026
   month: 11
   notes: "Preprint with Lean 4 development, checker and experiment."
-  # doi: 10.5281/zenodo.XXXXXXX
+  doi: 10.5281/zenodo.24042390

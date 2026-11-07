@@ -4,7 +4,7 @@
 
 Rohan Vinaik, November 2026.
 
-DOI: *(Zenodo DOI goes here once the record is published)*
+DOI: [10.5281/zenodo.24042390](https://doi.org/10.5281/zenodo.24042390)
 
 This repository holds the preprint and its artifact: a Lean 4 development that
 checks the theorems, a standard-library Python checker that decides the main
