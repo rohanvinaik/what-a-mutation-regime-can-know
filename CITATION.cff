@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the preprint below."
+type: software
+title: "What a Mutation Regime Can Know About a Function: paper, Lean development, checker and experiment"
+authors:
+  - family-names: Vinaik
+    given-names: Rohan
+    orcid: "https://orcid.org/0009-0001-4557-2059"
+version: 1.0.0
+date-released: 2026-11-07
+license: MIT
+repository-code: "https://github.com/rohanvinaik/what-a-mutation-regime-can-know"
+# doi: 10.5281/zenodo.XXXXXXX
+preferred-citation:
+  type: unpublished
+  title: "What a Mutation Regime Can Know About a Function: A provably-sufficient output-mutation regime, its knowability boundary, and the intent residual"
+  authors:
+    - family-names: Vinaik
+      given-names: Rohan
+      orcid: "https://orcid.org/0009-0001-4557-2059"
+  year: 2026
+  month: 11
+  notes: "Preprint with Lean 4 development, checker and experiment."
+  # doi: 10.5281/zenodo.XXXXXXX
